@@ -1,0 +1,12 @@
+.header{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+.searchbar{
+    width: 24rem;
+}
+.checkbox{
+    align-self:flex-start;
+}
